@@ -1,0 +1,12 @@
+h1{
+    background: rgba(76, 76, 234, 0.534);
+    text-align: right;
+    width: 500px;
+    padding-right: 10px;
+}
+a{
+    display: inline-block;
+    width: 500px;
+    background: lightcoral;
+    text-align: center;
+}
