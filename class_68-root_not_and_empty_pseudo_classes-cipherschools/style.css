@@ -1,0 +1,24 @@
+body :not(.fancy){
+    color: blue;
+    background-color: #ddd;
+}
+/* all who are not p turn blue */
+div:empty{
+    background: #222;
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+}
+/* html{
+
+} */
+/* :root{
+    background: #333;
+    color: #eee;
+} */
+/* root and html have same meaning but root has higher specificity */
+/* body{
+    background: #222;
+    color: #eee;
+} */
+/* body use for back ground color */
